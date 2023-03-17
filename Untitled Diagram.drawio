@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T16:36:20.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Drum_aDt632371d7gsBS" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T16:43:17.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="m9Hj294mIifExVT1HU0O" version="21.0.6" type="github">
   <diagram name="Page-1" id="dHfpbO5rQPStz8E7gkM7">
     <mxGraphModel dx="836" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,11 +76,26 @@
         <mxCell id="SCKcZwcJa6YqW5fdVs9M-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCKcZwcJa6YqW5fdVs9M-21" target="SCKcZwcJa6YqW5fdVs9M-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SCKcZwcJa6YqW5fdVs9M-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCKcZwcJa6YqW5fdVs9M-21" target="SCKcZwcJa6YqW5fdVs9M-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SCKcZwcJa6YqW5fdVs9M-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCKcZwcJa6YqW5fdVs9M-21" target="SCKcZwcJa6YqW5fdVs9M-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SCKcZwcJa6YqW5fdVs9M-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SCKcZwcJa6YqW5fdVs9M-21" target="SCKcZwcJa6YqW5fdVs9M-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SCKcZwcJa6YqW5fdVs9M-21" value="MANAJEMEN PERGUDANGAN" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="405" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SCKcZwcJa6YqW5fdVs9M-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="545" width="120" height="60" as="geometry" />
+        <mxCell id="SCKcZwcJa6YqW5fdVs9M-23" value="PUT AWAY" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SCKcZwcJa6YqW5fdVs9M-26" value="RECEIVING" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SCKcZwcJa6YqW5fdVs9M-28" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
