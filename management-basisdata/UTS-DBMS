@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T16:00:29.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="28H_ilZWGZaMlZDgvQdN" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T16:00:58.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="MdrnXJ3xehuOvH8N8tTa" version="21.1.5" type="github">
   <diagram name="Page-1" id="GaN9zTBpPP6B5AkX6Lmv">
-    <mxGraphModel dx="614" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="421" dy="264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,23 +63,23 @@
         <mxCell id="Ttwd4K5XyN3TD6f19ofl-12" value="Alamat" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="190" y="250" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ttwd4K5XyN3TD6f19ofl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ttwd4K5XyN3TD6f19ofl-17" target="Ttwd4K5XyN3TD6f19ofl-12">
+        <mxCell id="Ttwd4K5XyN3TD6f19ofl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ttwd4K5XyN3TD6f19ofl-17" target="Ttwd4K5XyN3TD6f19ofl-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="140" y="320" />
               <mxPoint x="140" y="310" />
-              <mxPoint x="205" y="310" />
+              <mxPoint x="240" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ttwd4K5XyN3TD6f19ofl-17" value="jalan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="320" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ttwd4K5XyN3TD6f19ofl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ttwd4K5XyN3TD6f19ofl-18" target="Ttwd4K5XyN3TD6f19ofl-12">
+        <mxCell id="Ttwd4K5XyN3TD6f19ofl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ttwd4K5XyN3TD6f19ofl-18" target="Ttwd4K5XyN3TD6f19ofl-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="310" />
-              <mxPoint x="275" y="310" />
+              <mxPoint x="240" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
