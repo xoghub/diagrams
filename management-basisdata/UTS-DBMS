@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T17:10:52.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="zcN8FnJBhVrFib4wdLuq" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T17:11:51.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="jupW082Siie9ou1udKGu" version="21.1.5" type="github">
   <diagram name="Page-1" id="GaN9zTBpPP6B5AkX6Lmv">
-    <mxGraphModel dx="776" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="921" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,7 +353,7 @@
           <mxGeometry y="50" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ttwd4K5XyN3TD6f19ofl-118" value="Kendaran" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="560" width="160" height="160" as="geometry" />
+          <mxGeometry x="575" y="570" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Ttwd4K5XyN3TD6f19ofl-119" value="@kendaraan_id&lt;br&gt;seri&lt;br&gt;jenis&lt;br&gt;kapasitas&lt;br&gt;brand&lt;br&gt;kondisi&lt;br&gt;harga_sewa" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Ttwd4K5XyN3TD6f19ofl-118">
           <mxGeometry y="50" width="160" height="110" as="geometry" />
@@ -382,10 +382,10 @@
         <mxCell id="Ttwd4K5XyN3TD6f19ofl-127" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Ttwd4K5XyN3TD6f19ofl-125">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ttwd4K5XyN3TD6f19ofl-128" value="" style="endArrow=none;html=1;rounded=0;entryX=0.995;entryY=0.456;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ttwd4K5XyN3TD6f19ofl-119" target="Ttwd4K5XyN3TD6f19ofl-121">
+        <mxCell id="Ttwd4K5XyN3TD6f19ofl-128" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ttwd4K5XyN3TD6f19ofl-119" target="Ttwd4K5XyN3TD6f19ofl-121">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="780" as="sourcePoint" />
-            <mxPoint x="560" y="770" as="targetPoint" />
+            <mxPoint x="470" y="665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ttwd4K5XyN3TD6f19ofl-129" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="Ttwd4K5XyN3TD6f19ofl-128">
