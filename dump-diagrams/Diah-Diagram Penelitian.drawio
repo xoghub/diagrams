@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T02:00:07.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="xtsbNJ74JX6qJO1h3AAs" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T02:00:34.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="LUAdU1EVRZOG9WV4vcUG" version="21.6.5" type="github">
   <diagram name="Page-1" id="9E-Ja-nChZw7h8aWEs4l">
     <mxGraphModel dx="739" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,8 +69,14 @@
         <mxCell id="0j5BthYIqqa0mrW0sZn3-3" value="Analisa Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0j5BthYIqqa0mrW0sZn3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0j5BthYIqqa0mrW0sZn3-4" target="0j5BthYIqqa0mrW0sZn3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0j5BthYIqqa0mrW0sZn3-4" value="Laporan Hasil Analisis Data" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="630" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0j5BthYIqqa0mrW0sZn3-9" value="Selesai" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="690" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
