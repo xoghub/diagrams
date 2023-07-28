@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T01:38:28.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="4BGxHVXDUsC-vSE8qwx0" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T01:47:28.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="y_KDpISVe8FwGg6nklRH" version="21.6.5" type="github">
   <diagram name="Page-1" id="9E-Ja-nChZw7h8aWEs4l">
     <mxGraphModel dx="739" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,11 +19,29 @@
         <mxCell id="T2qjuKC509ubxCQymsPH-2" value="Penelitian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T2qjuKC509ubxCQymsPH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2qjuKC509ubxCQymsPH-4" target="T2qjuKC509ubxCQymsPH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T2qjuKC509ubxCQymsPH-4" value="Penelitian Pustaka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T2qjuKC509ubxCQymsPH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2qjuKC509ubxCQymsPH-6" target="T2qjuKC509ubxCQymsPH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T2qjuKC509ubxCQymsPH-6" value="Penelitian Lapangan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2qjuKC509ubxCQymsPH-8" value="Tinjauan Pustaka &lt;br&gt;Analisis SWOT:&lt;br&gt;1. Faktor Internal&lt;br&gt;2. Faktor Eksternal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T2qjuKC509ubxCQymsPH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2qjuKC509ubxCQymsPH-10" target="T2qjuKC509ubxCQymsPH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2qjuKC509ubxCQymsPH-10" value="Populasi dan Sampel Lapangan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2qjuKC509ubxCQymsPH-12" value="Teknik Pengumpulan data:&lt;br&gt;1. Dokumentasi&lt;br&gt;2. Wawancara&lt;br&gt;3. Observasi&lt;br&gt;4. Angket/Kuisioner" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
