@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T01:59:57.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="UpGpLTCzYJQGbnGQz150" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T02:00:07.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="xtsbNJ74JX6qJO1h3AAs" version="21.6.5" type="github">
   <diagram name="Page-1" id="9E-Ja-nChZw7h8aWEs4l">
     <mxGraphModel dx="739" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T2qjuKC509ubxCQymsPH-8" value="Tinjauan Pustaka &lt;br&gt;Analisis SWOT:&lt;br&gt;1. Faktor Internal&lt;br&gt;2. Faktor Eksternal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="320" width="140" height="70" as="geometry" />
+          <mxGeometry x="110" y="390" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T2qjuKC509ubxCQymsPH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T2qjuKC509ubxCQymsPH-10" target="T2qjuKC509ubxCQymsPH-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
