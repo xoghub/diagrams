@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T14:40:19.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="DOAedRjmXURjMjoowIaq" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T14:46:00.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="cSUHq1-YJGMAVH6HQQeS" version="21.6.9" type="github">
   <diagram name="Page-1" id="c6e7F-jItsLcr8_G_tTT">
-    <mxGraphModel dx="1148" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,16 +28,16 @@
         <mxCell id="2D7TzX3UbsAIMFlOyEG9-8" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Kekurangan&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2D7TzX3UbsAIMFlOyEG9-9" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Quadran I&lt;br&gt;Stategis Agresif&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2D7TzX3UbsAIMFlOyEG9-9" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Quadrant I&lt;br&gt;Stategis Agresif&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2D7TzX3UbsAIMFlOyEG9-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2D7TzX3UbsAIMFlOyEG9-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Quadrant&amp;nbsp;II&lt;br&gt;Strategis Turn-Around&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2D7TzX3UbsAIMFlOyEG9-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2D7TzX3UbsAIMFlOyEG9-11" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Quadrant III&lt;br&gt;Strategis Defensif&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2D7TzX3UbsAIMFlOyEG9-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2D7TzX3UbsAIMFlOyEG9-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;Quadrant IV&lt;br&gt;Strategis Diversifikasi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
