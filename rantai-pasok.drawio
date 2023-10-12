@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T09:46:11.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WgNHlZ0EtT72oaL9VrN5" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T10:21:27.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="zTGW16dTB92X8qs4Cz1d" version="22.0.4" type="github">
   <diagram name="Page-1" id="KrlWbUvgsvfsjQbvGFXX">
-    <mxGraphModel dx="1726" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,6 +217,42 @@
         </mxCell>
         <mxCell id="RkLfia9Nj0nkvKxhkF3L-73" value="Konsumen" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-75" target="RkLfia9Nj0nkvKxhkF3L-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-75" value="Rumah Sakit/Klinik" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-76" target="RkLfia9Nj0nkvKxhkF3L-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-76" value="Pabrik Farmasi" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-77" target="RkLfia9Nj0nkvKxhkF3L-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-77" value="Pemasok Bahan Kimia" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-79" target="RkLfia9Nj0nkvKxhkF3L-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-79" target="RkLfia9Nj0nkvKxhkF3L-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-79" value="Distributor" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-82" target="RkLfia9Nj0nkvKxhkF3L-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-82" value="Apotek" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-84" value="Pasien" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
