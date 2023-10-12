@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T05:29:26.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="m6aSooe1NMkNOvUBFVc_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T08:42:38.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9inoKamhQwbQXmQlGB8D" version="22.0.4" type="github">
   <diagram name="Page-1" id="KrlWbUvgsvfsjQbvGFXX">
-    <mxGraphModel>
+    <mxGraphModel dx="984" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-1" target="RkLfia9Nj0nkvKxhkF3L-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-1" value="Petani Swadaya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-2" target="RkLfia9Nj0nkvKxhkF3L-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-2" value="Kebun Perusahan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-3" target="RkLfia9Nj0nkvKxhkF3L-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-3" value="Kebun Mitra Perusahan &lt;br&gt;(Pihak ketiga)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-4" target="RkLfia9Nj0nkvKxhkF3L-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-4" value="Tengkulak" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-5" target="RkLfia9Nj0nkvKxhkF3L-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-5" target="RkLfia9Nj0nkvKxhkF3L-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-5" value="Pabrik Kelapa Sawit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-6" target="RkLfia9Nj0nkvKxhkF3L-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-6" value="Pabrik Turunan CPO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-13" target="RkLfia9Nj0nkvKxhkF3L-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-13" value="Distributor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-16" target="RkLfia9Nj0nkvKxhkF3L-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-16" value="Pengecer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-18" value="Konsumen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-20" target="RkLfia9Nj0nkvKxhkF3L-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-20" target="RkLfia9Nj0nkvKxhkF3L-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RkLfia9Nj0nkvKxhkF3L-20" target="RkLfia9Nj0nkvKxhkF3L-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RkLfia9Nj0nkvKxhkF3L-20" value="Kebun Pembibitan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
