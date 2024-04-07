@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T06:51:31.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="J-CrefdWtcHUhfWQR2e4" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T07:40:12.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gkYb0nK9-puwZw9NjMBo" version="24.0.8" type="github">
   <diagram name="Page-1" id="Yv_70YzZiu4XLaSYolAr">
     <mxGraphModel dx="1059" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry y="180" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sRVoG1vecRMBhj1PC-BN-9" value="Weakness" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="200" height="150" as="geometry" />
+          <mxGeometry x="280" y="40" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="sRVoG1vecRMBhj1PC-BN-10" value="Kekhawatiran Privasi Platform" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-9">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
@@ -34,16 +34,19 @@
         <mxCell id="sRVoG1vecRMBhj1PC-BN-11" value="Mudah Tersebarnya Misinformasi &amp;amp; Hoax" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-9">
           <mxGeometry y="60" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sRVoG1vecRMBhj1PC-BN-12" value="Kekhawatiran terhadap Ketagihan &amp;amp; Efek Samping Pengguna" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-9">
+        <mxCell id="sRVoG1vecRMBhj1PC-BN-12" value="Kekhawatiran Ketagihan Pengguna" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-9">
           <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sRVoG1vecRMBhj1PC-BN-29" value="Praktek Monopoli" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-9">
+        <mxCell id="sRVoG1vecRMBhj1PC-BN-35" value="Kekhawatiran Efek Samping Sosial Media" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-9">
           <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sRVoG1vecRMBhj1PC-BN-13" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sRVoG1vecRMBhj1PC-BN-36" value="Kekhawatiran Dominasi Pasar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-9">
+          <mxGeometry y="150" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sRVoG1vecRMBhj1PC-BN-13" value="Threats" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="290" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sRVoG1vecRMBhj1PC-BN-14" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-13">
+        <mxCell id="sRVoG1vecRMBhj1PC-BN-14" value="Kompetisi Yang Kuat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-13">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sRVoG1vecRMBhj1PC-BN-15" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-13">
@@ -53,16 +56,22 @@
           <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sRVoG1vecRMBhj1PC-BN-17" value="Opportunities" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="200" height="120" as="geometry" />
+          <mxGeometry x="280" y="240" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="sRVoG1vecRMBhj1PC-BN-18" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-17">
+        <mxCell id="sRVoG1vecRMBhj1PC-BN-18" value="Penambahan Pengguna Platforms" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-17">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sRVoG1vecRMBhj1PC-BN-19" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-17">
+        <mxCell id="sRVoG1vecRMBhj1PC-BN-19" value="Berkembangnya Virtual Reality" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-17">
           <mxGeometry y="60" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sRVoG1vecRMBhj1PC-BN-20" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-17">
+        <mxCell id="sRVoG1vecRMBhj1PC-BN-20" value="Social-Commerce : Integrasi Sosial Media dan E-Commerce" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-17">
           <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sRVoG1vecRMBhj1PC-BN-31" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Artificial Intelligence&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-17">
+          <mxGeometry y="120" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sRVoG1vecRMBhj1PC-BN-34" value="&lt;div&gt;Ekspansi Ke Negara Berkembang&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sRVoG1vecRMBhj1PC-BN-17">
+          <mxGeometry y="150" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
