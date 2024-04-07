@@ -1,71 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T06:17:08.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="e6d4c1BD68b8irmlQeq6" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T06:21:11.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2gqoH0pKGAJc0IEWPuac" version="24.0.8" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="993" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="160" height="160" as="geometry" />
+          <mxGeometry x="120" y="140" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="160" height="160" as="geometry" />
+          <mxGeometry x="320" y="140" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="160" height="160" as="geometry" />
+          <mxGeometry x="120" y="340" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="160" height="160" as="geometry" />
+          <mxGeometry x="320" y="340" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="300" y="480" as="sourcePoint" />
-            <mxPoint x="300" y="40" as="targetPoint" />
+            <mxPoint x="300" y="540" as="sourcePoint" />
+            <mxPoint x="300" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-6" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="520" y="260" as="sourcePoint" />
-            <mxPoint x="80" y="260" as="targetPoint" />
+            <mxPoint x="520" y="320" as="sourcePoint" />
+            <mxPoint x="80" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-9" value="Question Mark(?)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="140" height="30" as="geometry" />
+          <mxGeometry x="130" y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-10" value="Star(â˜…)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="90" width="140" height="30" as="geometry" />
+          <mxGeometry x="330" y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-11" value="Dog(í ½í°¶)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="290" width="140" height="30" as="geometry" />
+          <mxGeometry x="130" y="350" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-12" value="Cash Cow(í ½í°®)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="290" width="140" height="30" as="geometry" />
+          <mxGeometry x="330" y="350" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-13" value="WhatsApp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-14" value="Facebook Ads" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-15" value="Facebook" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="390" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-16" value="Instagram" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="130" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-17" value="Oculus VR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-18" value="MetaVerse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="80" height="30" as="geometry" />
+          <mxGeometry x="160" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-21" value="Facebook Portal&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="145" y="330" width="110" height="30" as="geometry" />
+          <mxGeometry x="145" y="390" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-22" value="Instagram Threads" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="145" y="130" width="110" height="30" as="geometry" />
+          <mxGeometry x="145" y="190" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-23" value="Messages Kids" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="145" y="160" width="110" height="30" as="geometry" />
+          <mxGeometry x="145" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-25" value="Market Growth Rate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i6uiQ0Slc_C5Ztu5rwtF-27" value="Relative Market Share" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
