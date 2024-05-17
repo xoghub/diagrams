@@ -1,22 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T16:47:40.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="C3HWgdQl04wjOZjEYQgL" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T16:54:57.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NXswTp_mGlds-VemUZcb" version="24.4.4" type="github">
   <diagram name="Page-1" id="exkaV0_K3e5TsBOGJDA7">
     <mxGraphModel dx="1764" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FFYidb9wmgaieHD7aF0S-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-1" target="FFYidb9wmgaieHD7aF0S-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="650" y="160" />
-              <mxPoint x="440" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-1" target="FFYidb9wmgaieHD7aF0S-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="650" y="160" />
-              <mxPoint x="440" y="160" />
+              <mxPoint x="600" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -25,7 +17,7 @@
             <Array as="points">
               <mxPoint x="650" y="120" />
               <mxPoint x="650" y="160" />
-              <mxPoint x="200" y="160" />
+              <mxPoint x="400" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -41,7 +33,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="650" y="160" />
-              <mxPoint x="1240" y="160" />
+              <mxPoint x="1040" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -52,13 +44,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-2" value="Direktur Keuangan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="160" height="80" as="geometry" />
+          <mxGeometry x="520" y="200" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-5" target="FFYidb9wmgaieHD7aF0S-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-5" value="Direktur Pemasaran" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="200" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-8" target="FFYidb9wmgaieHD7aF0S-10">
           <mxGeometry relative="1" as="geometry" />
@@ -67,39 +59,44 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-8" target="FFYidb9wmgaieHD7aF0S-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="400" />
+              <mxPoint x="270" y="830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-8" target="FFYidb9wmgaieHD7aF0S-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FFYidb9wmgaieHD7aF0S-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-8" target="FFYidb9wmgaieHD7aF0S-16">
+        <mxCell id="FFYidb9wmgaieHD7aF0S-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-8" target="FFYidb9wmgaieHD7aF0S-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="540" />
-              <mxPoint x="200" y="540" />
+              <mxPoint x="270" y="400" />
+              <mxPoint x="270" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-8" value="Manajer Pemasaran" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-10" value="Staf Penjualan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="790" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-14" value="Staf Pemasaran" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="240" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-16" value="Staf IT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="640" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="660" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-18" target="FFYidb9wmgaieHD7aF0S-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-18" value="Manajemen Keuangan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="160" height="80" as="geometry" />
+          <mxGeometry x="520" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-20" value="Staf Keuangan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="480" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="520" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-22" target="FFYidb9wmgaieHD7aF0S-24">
           <mxGeometry relative="1" as="geometry" />
@@ -108,7 +105,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="800" y="480" />
-              <mxPoint x="980" y="480" />
+              <mxPoint x="920" y="480" />
+              <mxPoint x="920" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,7 +117,7 @@
           <mxGeometry x="720" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-26" value="Bagian Pengiriman" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="960" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="720" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-28" target="FFYidb9wmgaieHD7aF0S-30">
           <mxGeometry relative="1" as="geometry" />
@@ -127,24 +125,25 @@
         <mxCell id="FFYidb9wmgaieHD7aF0S-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="FFYidb9wmgaieHD7aF0S-28" target="FFYidb9wmgaieHD7aF0S-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1280" y="480" />
-              <mxPoint x="1520" y="480" />
+              <mxPoint x="1040" y="480" />
+              <mxPoint x="1150" y="480" />
+              <mxPoint x="1150" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-28" value="Manajer SDM &amp;amp; Umum" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="360" width="160" height="80" as="geometry" />
+          <mxGeometry x="960" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-30" value="Bagian Umum" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="960" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-32" value="Staf SDM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="960" y="630" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FFYidb9wmgaieHD7aF0S-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="320" as="sourcePoint" />
-            <mxPoint x="1610" y="320" as="targetPoint" />
+            <mxPoint x="240" y="320" as="sourcePoint" />
+            <mxPoint x="1200" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
