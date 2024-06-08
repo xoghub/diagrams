@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T07:26:45.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vIiu6vHor6r3GDQYkpnE" version="24.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-08T07:32:25.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TSzcG_90vUEAH-7armJ8" version="24.5.2" type="github" pages="3">
   <diagram name="ERD" id="PL8wf_vWZ5DKsKkEtRbq">
     <mxGraphModel dx="3023" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1911,7 +1911,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6oq_c_2MxOuhOecp29St" name="Stored Procedure">
-    <mxGraphModel dx="2294" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2438" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3005,6 +3005,266 @@
         </mxCell>
         <mxCell id="3TwDLE5oN52FykhbhOkw-80" value="End" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="3427.5" y="885" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-82" value="Add Country" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3890" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-84" target="3TwDLE5oN52FykhbhOkw-86" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-84" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3907.5" y="130" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-86" target="3TwDLE5oN52FykhbhOkw-97" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-86" value="Input Nama Department&lt;div&gt;Input ID Location&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="3850" y="225" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-90" target="3TwDLE5oN52FykhbhOkw-101" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-88" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TwDLE5oN52FykhbhOkw-87">
+          <mxGeometry x="-0.1199" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-90" target="3TwDLE5oN52FykhbhOkw-103" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-90" value="Is&amp;nbsp;&lt;div&gt;Name Only Contain&amp;nbsp;&lt;div&gt;Alphabet&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3892.5" y="610" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-95" target="3TwDLE5oN52FykhbhOkw-90" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-92" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TwDLE5oN52FykhbhOkw-91">
+          <mxGeometry x="-0.1458" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-95" target="3TwDLE5oN52FykhbhOkw-99" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-94" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TwDLE5oN52FykhbhOkw-93">
+          <mxGeometry x="-0.1351" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-95" value="Is Valid" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3892.5" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-97" target="3TwDLE5oN52FykhbhOkw-95" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-97" value="Check Role" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3882.5" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="3TwDLE5oN52FykhbhOkw-99" target="3TwDLE5oN52FykhbhOkw-104" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4280" y="510" />
+              <mxPoint x="4280" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-99" value="Print &quot;You Role cannot add department&quot;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4090" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="3TwDLE5oN52FykhbhOkw-101" target="3TwDLE5oN52FykhbhOkw-104" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4280" y="660" />
+              <mxPoint x="4280" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-101" value="Print &quot;Department must be alphabet only&quot;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4090" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-103" target="3TwDLE5oN52FykhbhOkw-104" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-103" value="Add Data to Table Department" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3882.5" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-104" value="End" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3902.5" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-105" value="Update Department" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4430" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-107" target="3TwDLE5oN52FykhbhOkw-109" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-107" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4447.5" y="125" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-109" target="3TwDLE5oN52FykhbhOkw-120" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-109" value="&lt;div&gt;Input ID&lt;/div&gt;Input New Nama Department&lt;div&gt;Input ID Location&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="4375" y="220" width="215" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-113" target="3TwDLE5oN52FykhbhOkw-124" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-111" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TwDLE5oN52FykhbhOkw-110">
+          <mxGeometry x="-0.1199" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-113" target="3TwDLE5oN52FykhbhOkw-126" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-113" value="Is&amp;nbsp;&lt;div&gt;Name Only Contain&amp;nbsp;&lt;div&gt;Alphabet&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4432.5" y="605" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-118" target="3TwDLE5oN52FykhbhOkw-113" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-115" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TwDLE5oN52FykhbhOkw-114">
+          <mxGeometry x="-0.1458" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-118" target="3TwDLE5oN52FykhbhOkw-122" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-117" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TwDLE5oN52FykhbhOkw-116">
+          <mxGeometry x="-0.1351" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-118" value="Is Valid" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4432.5" y="455" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-120" target="3TwDLE5oN52FykhbhOkw-118" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-120" value="Check Role" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4422.5" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="3TwDLE5oN52FykhbhOkw-122" target="3TwDLE5oN52FykhbhOkw-127" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4820" y="505" />
+              <mxPoint x="4820" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-122" value="Print &quot;You Role cannot update department&quot;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4630" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="3TwDLE5oN52FykhbhOkw-124" target="3TwDLE5oN52FykhbhOkw-127" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4820" y="655" />
+              <mxPoint x="4820" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-124" value="Print &quot;Department must be alphabet only&quot;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4630" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-126" target="3TwDLE5oN52FykhbhOkw-127" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-126" value="Update Data from Table Department" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4422.5" y="755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-127" value="End" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4442.5" y="885" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-128" value="Delete Department" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4935" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-130" target="3TwDLE5oN52FykhbhOkw-132" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-130" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4952.5" y="125" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-132" target="3TwDLE5oN52FykhbhOkw-144" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-132" value="&lt;div&gt;Input ID&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="4905" y="222.5" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-137" target="3TwDLE5oN52FykhbhOkw-148" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-134" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TwDLE5oN52FykhbhOkw-133">
+          <mxGeometry x="-0.1199" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-137" target="3TwDLE5oN52FykhbhOkw-150" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-136" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TwDLE5oN52FykhbhOkw-135">
+          <mxGeometry x="-0.291" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-137" value="Is&amp;nbsp;&lt;div&gt;ID department&amp;nbsp;&lt;/div&gt;&lt;div&gt;is exists?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4937.5" y="605" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-142" target="3TwDLE5oN52FykhbhOkw-137" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-139" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TwDLE5oN52FykhbhOkw-138">
+          <mxGeometry x="-0.1458" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-142" target="3TwDLE5oN52FykhbhOkw-146" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-141" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TwDLE5oN52FykhbhOkw-140">
+          <mxGeometry x="-0.1351" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-142" value="Is Valid" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4937.5" y="455" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-144" target="3TwDLE5oN52FykhbhOkw-142" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-144" value="Check Role" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4927.5" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="3TwDLE5oN52FykhbhOkw-146" target="3TwDLE5oN52FykhbhOkw-151" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5325" y="505" />
+              <mxPoint x="5325" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-146" value="Print &quot;You Role cannot delete department&quot;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="5135" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="3TwDLE5oN52FykhbhOkw-148" target="3TwDLE5oN52FykhbhOkw-151" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5325" y="655" />
+              <mxPoint x="5325" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-148" value="Print &quot;Department Not Found&quot;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="5135" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3TwDLE5oN52FykhbhOkw-150" target="3TwDLE5oN52FykhbhOkw-151" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-150" value="Delete Data from Table Department" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4927.5" y="755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TwDLE5oN52FykhbhOkw-151" value="End" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="4947.5" y="885" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
