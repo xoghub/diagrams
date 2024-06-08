@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T04:30:04.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="unxqzYC0TFU-NzMgfOBl" version="24.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-08T04:32:49.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5opMwYZLZiWixlfBL4qd" version="24.5.2" type="github" pages="3">
   <diagram name="ERD" id="PL8wf_vWZ5DKsKkEtRbq">
     <mxGraphModel dx="3138" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -786,7 +786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZqbK6Z5GuxOzB76jwvun" name="IA">
-    <mxGraphModel dx="1644" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3119" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1686,6 +1686,154 @@
         </mxCell>
         <mxCell id="jO3Nt64w1yY4AIHLnVtL-23" value="Detail Asset History" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-27" target="jO3Nt64w1yY4AIHLnVtL-28" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-27" target="jO3Nt64w1yY4AIHLnVtL-29" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1480" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-27" value="Asset Lending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-28" value="Add Asset Lender" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-29" value="Update Asset Lender" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-33" target="jO3Nt64w1yY4AIHLnVtL-34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-33" target="jO3Nt64w1yY4AIHLnVtL-35" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-33" target="jO3Nt64w1yY4AIHLnVtL-36" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-33" value="Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-34" value="Add Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-35" value="Update Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-36" value="Delete Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-38" target="jO3Nt64w1yY4AIHLnVtL-39" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2090" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-38" value="Asset History" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-39" value="Detail Asset History" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-42" target="jO3Nt64w1yY4AIHLnVtL-43" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-42" target="jO3Nt64w1yY4AIHLnVtL-44" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1700" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-42" value="Asset Lending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-43" value="Add Asset Lender" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-44" value="Update Asset Lender" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-48" target="jO3Nt64w1yY4AIHLnVtL-49" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-48" target="jO3Nt64w1yY4AIHLnVtL-50" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-48" target="jO3Nt64w1yY4AIHLnVtL-51" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-48" value="Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-49" value="Add Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-50" value="Update Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-51" value="Delete Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-53" target="jO3Nt64w1yY4AIHLnVtL-54" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2330" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-53" value="Asset History" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-54" value="Detail Asset History" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-64" target="jO3Nt64w1yY4AIHLnVtL-65" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-64" target="jO3Nt64w1yY4AIHLnVtL-66" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-64" target="jO3Nt64w1yY4AIHLnVtL-67" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-64" value="Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-65" value="Add Asset Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-66" value="Update Asset Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-67" value="Delete Asset Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-71" target="jO3Nt64w1yY4AIHLnVtL-72" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-71" target="jO3Nt64w1yY4AIHLnVtL-73" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jO3Nt64w1yY4AIHLnVtL-71" target="jO3Nt64w1yY4AIHLnVtL-74" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-71" value="Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-72" value="Add Asset Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-73" value="Update Asset Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jO3Nt64w1yY4AIHLnVtL-74" value="Delete Asset Type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
