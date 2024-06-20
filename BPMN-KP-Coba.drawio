@@ -1,41 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T07:31:30.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RBP-ZIQ_0K6Ht4NVNCxN" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T08:42:20.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bGNsXGkJFVkRoC6XWxIa" version="24.5.5" type="github">
   <diagram name="Page-1" id="Yi4qCKwHwHE2i9LplEFX">
-    <mxGraphModel dx="906" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="755" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dL3wJV5hjYVumxx8Xskh-27" value="Listing Product" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="150" y="240" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="dL3wJV5hjYVumxx8Xskh-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Diskon Reguler&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="45" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dL3wJV5hjYVumxx8Xskh-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="dL3wJV5hjYVumxx8Xskh-37" target="dL3wJV5hjYVumxx8Xskh-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dL3wJV5hjYVumxx8Xskh-37" value="Start" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="dL3wJV5hjYVumxx8Xskh-38" value="Check Campaign Tokopedia" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="150" y="140" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dL3wJV5hjYVumxx8Xskh-39" value="Calculate Discount &amp;amp; HPP" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="320" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="150" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dL3wJV5hjYVumxx8Xskh-41" value="&lt;font&gt;Discount Min Below 20%&amp;nbsp;&lt;/font&gt;" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="355" y="255" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dL3wJV5hjYVumxx8Xskh-43" value="End" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="40" y="180" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dL3wJV5hjYVumxx8Xskh-44" value="&lt;font&gt;Setting Discount on Tokopedia&lt;/font&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="dL3wJV5hjYVumxx8Xskh-45" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="150" y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dL3wJV5hjYVumxx8Xskh-46" value="&lt;font&gt;Discount Min Below 20%&amp;nbsp;&lt;/font&gt;" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="490" y="255" width="50" height="50" as="geometry" />
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-46" value="&lt;font&gt;Product already&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;have discount?&lt;/font&gt;&lt;/div&gt;" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="815" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dL3wJV5hjYVumxx8Xskh-47" value="&lt;font&gt;Confirmation&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Discount&lt;/font&gt;&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="150" y="360" width="120" height="80" as="geometry" />
@@ -43,11 +25,92 @@
         <mxCell id="dL3wJV5hjYVumxx8Xskh-48" value="Muslim Holyday" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=conditional;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="45" y="280" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dL3wJV5hjYVumxx8Xskh-49" value="Payday" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=conditional;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-49" value="Monthly Event" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=conditional;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dL3wJV5hjYVumxx8Xskh-52" value="&quot;Tanggal Kembar&quot;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=conditional;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-54" value="&lt;font&gt;Setting Campiang on Tokopedia&lt;/font&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-56" value="Setting&amp;nbsp;&lt;div&gt;Name Campaign&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="310" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-57" value="&lt;div&gt;Add Product List&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-58" value="&lt;div&gt;Setting Payment Method&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="310" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-59" value="Add Campaign" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-61" value="Campaign Tokopedia" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=conditional;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-62" value="Slow Move Product" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="1">
           <mxGeometry x="40" y="470" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-63" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="840" y="255" width="780" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-65" value="Accounting" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" vertex="1" parent="dL3wJV5hjYVumxx8Xskh-63">
+          <mxGeometry x="20" width="760" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-39" value="Calculate Discount &amp;amp; HPP" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="dL3wJV5hjYVumxx8Xskh-65">
+          <mxGeometry x="150" y="35" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-66" value="Digital Marketing" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" vertex="1" parent="dL3wJV5hjYVumxx8Xskh-63">
+          <mxGeometry x="20" y="170" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-37" value="Start" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fontFamily=Times New Roman;" vertex="1" parent="dL3wJV5hjYVumxx8Xskh-66">
+          <mxGeometry x="50" y="70" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-27" value="Listing Product" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="dL3wJV5hjYVumxx8Xskh-66">
+          <mxGeometry x="150" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dL3wJV5hjYVumxx8Xskh-66" source="dL3wJV5hjYVumxx8Xskh-37" target="dL3wJV5hjYVumxx8Xskh-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-44" value="&lt;font&gt;Setting Discount on Tokopedia&lt;/font&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopSub=1;fontFamily=Times New Roman;" vertex="1" parent="dL3wJV5hjYVumxx8Xskh-66">
+          <mxGeometry x="340" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-73" value="End" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fontFamily=Times New Roman;" vertex="1" parent="dL3wJV5hjYVumxx8Xskh-66">
+          <mxGeometry x="680" y="70" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dL3wJV5hjYVumxx8Xskh-66" source="dL3wJV5hjYVumxx8Xskh-75" target="dL3wJV5hjYVumxx8Xskh-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-75" value="&lt;font&gt;Confirmation&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Discount&lt;/font&gt;&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="dL3wJV5hjYVumxx8Xskh-66">
+          <mxGeometry x="520" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dL3wJV5hjYVumxx8Xskh-66" source="dL3wJV5hjYVumxx8Xskh-44" target="dL3wJV5hjYVumxx8Xskh-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dL3wJV5hjYVumxx8Xskh-63" source="dL3wJV5hjYVumxx8Xskh-27" target="dL3wJV5hjYVumxx8Xskh-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dL3wJV5hjYVumxx8Xskh-63" source="dL3wJV5hjYVumxx8Xskh-39" target="dL3wJV5hjYVumxx8Xskh-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-78" value="Start" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="920" y="690" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-79" value="Log In&amp;nbsp;&lt;div&gt;Tokopedia Seller&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-80" value="Click &quot;Promosi dan Optimasi&quot; Tab" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-81" value="Click &quot;Diskon Toko&quot; Feature" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-82" value="Click Button &quot;Tambah Produk&quot;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-84" value="Click &quot;Tambahkan Produk&quot; Tab" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dL3wJV5hjYVumxx8Xskh-85" value="Search Product By Name or SKU" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="910" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
