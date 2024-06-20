@@ -1,41 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T05:56:56.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uLA4ez4OV3CLgUzu0eEI" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T06:00:01.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hcZvz29x_kIShvKA4N-j" version="24.5.5" type="github">
   <diagram name="Page-1" id="Vned0AJL_Sf1EVz8iLoT">
     <mxGraphModel dx="922" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iblUcHsWFGveh7NraL_f-1" value="PURCHASING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="450" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iblUcHsWFGveh7NraL_f-2" value="TECLONOGLY DEVELOPMENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="450" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iblUcHsWFGveh7NraL_f-3" value="HUMAN RESOURCE MANAGEMENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="100" width="450" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iblUcHsWFGveh7NraL_f-4" value="INFRASTUCTUR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="220" width="450" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iblUcHsWFGveh7NraL_f-5" value="INBOUND LOGISTIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="280" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iblUcHsWFGveh7NraL_f-6" value="MARKETING &amp;amp; SALES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="280" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iblUcHsWFGveh7NraL_f-7" value="OUTBOUND LOGISTIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="280" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iblUcHsWFGveh7NraL_f-8" value="OPERATIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="280" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iblUcHsWFGveh7NraL_f-9" value="SERVICE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="280" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iblUcHsWFGveh7NraL_f-10" value="MARGIN" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="40" width="100" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="iblUcHsWFGveh7NraL_f-11" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="560" height="290" as="geometry" />
+          <mxGeometry x="20" y="530" width="560" height="290" as="geometry" />
         </mxCell>
         <mxCell id="iblUcHsWFGveh7NraL_f-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="iblUcHsWFGveh7NraL_f-11">
           <mxGeometry width="560" height="32" as="geometry" />
@@ -90,6 +60,33 @@
           <mxGeometry x="280" width="280" height="128" as="geometry">
             <mxRectangle width="280" height="128" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iblUcHsWFGveh7NraL_f-1" value="PURCHASING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iblUcHsWFGveh7NraL_f-2" value="TECLONOGLY DEVELOPMENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iblUcHsWFGveh7NraL_f-3" value="HUMAN RESOURCE MANAGEMENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iblUcHsWFGveh7NraL_f-4" value="INFRASTUCTUR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iblUcHsWFGveh7NraL_f-5" value="INBOUND LOGISTIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iblUcHsWFGveh7NraL_f-6" value="MARKETING &amp;amp; SALES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iblUcHsWFGveh7NraL_f-7" value="OUTBOUND LOGISTIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iblUcHsWFGveh7NraL_f-8" value="OPERATIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iblUcHsWFGveh7NraL_f-10" value="MARGIN" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="120" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
