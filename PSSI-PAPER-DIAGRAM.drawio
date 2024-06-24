@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T03:34:04.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="AhoMqMn7Wp8crS_QSzos" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T03:37:22.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ooeva5VThfL9ZFYLhzpB" version="24.6.2" type="github">
   <diagram name="Page-1" id="Vned0AJL_Sf1EVz8iLoT">
-    <mxGraphModel dx="922" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="971" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="8O4uAdFe4wAA6HJJ4pzz-6" value="&lt;b&gt;&lt;u&gt;Pemasok(Moderat)&lt;/u&gt;&lt;/b&gt;&lt;div&gt;In-house&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Data Center dan Server&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Supplier Lock-In&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pekerja&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;kompetitif&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tetapi&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;terbatas&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="560" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8O4uAdFe4wAA6HJJ4pzz-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8O4uAdFe4wAA6HJJ4pzz-8" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;Produk Pengganti(Moderat/Kuat)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="710" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
