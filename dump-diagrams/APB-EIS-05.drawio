@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2024-10-31T05:10:41.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" etag="X0O6lHJzIkLICvCPrJK3" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-10-31T05:23:36.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" etag="t9iM_D1urxVWGBNGBy09" version="24.6.5" type="github">
   <diagram name="Page-1" id="0Ft4UJSf0B1ccs9EK86x">
-    <mxGraphModel dx="1784" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2294" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JHwUie5jRQhZksNu-lWo-2" value="Keuangan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="130" height="70" as="geometry" />
+          <mxGeometry x="-42.5" y="-70" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JHwUie5jRQhZksNu-lWo-3" value="Kualitas perkuliahan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="270" width="130" height="70" as="geometry" />
+        <mxCell id="JHwUie5jRQhZksNu-lWo-3" value="Diri Pribadi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="400" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JHwUie5jRQhZksNu-lWo-4" value="Diri Pribadi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="270" width="130" height="70" as="geometry" />
+        <mxCell id="JHwUie5jRQhZksNu-lWo-4" value="Kualitas perkuliahan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="400" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JHwUie5jRQhZksNu-lWo-6" value="Fasilitas kampus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="50" width="130" height="70" as="geometry" />
+          <mxGeometry x="572.5" y="-70" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JHwUie5jRQhZksNu-lWo-7" value="Lingkungan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="50" width="130" height="70" as="geometry" />
+          <mxGeometry x="257.5" y="-70" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JHwUie5jRQhZksNu-lWo-9" value="Keterlibatan Dosen Wali" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="280" width="130" height="70" as="geometry" />
+          <mxGeometry x="537.5" y="400" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JHwUie5jRQhZksNu-lWo-11" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Keterlambatan &lt;/font&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Masa Studi&lt;/font&gt;&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;horizontal=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="170" height="310" as="geometry" />
+          <mxGeometry x="830" y="40" width="170" height="310" as="geometry" />
         </mxCell>
         <mxCell id="JHwUie5jRQhZksNu-lWo-12" value="" style="shape=xor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="130" width="150" height="120" as="geometry" />
+          <mxGeometry x="-290" y="135" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JHwUie5jRQhZksNu-lWo-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JHwUie5jRQhZksNu-lWo-12" target="JHwUie5jRQhZksNu-lWo-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -42,33 +42,78 @@
         </mxCell>
         <mxCell id="JHwUie5jRQhZksNu-lWo-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JHwUie5jRQhZksNu-lWo-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="190" as="sourcePoint" />
+            <mxPoint x="80" y="200" as="sourcePoint" />
             <mxPoint x="115" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JHwUie5jRQhZksNu-lWo-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JHwUie5jRQhZksNu-lWo-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="190" as="sourcePoint" />
-            <mxPoint x="125" y="280" as="targetPoint" />
+            <mxPoint x="430" y="190" as="sourcePoint" />
+            <mxPoint x="215" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JHwUie5jRQhZksNu-lWo-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="JHwUie5jRQhZksNu-lWo-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="190" as="sourcePoint" />
-            <mxPoint x="305" y="280" as="targetPoint" />
+            <mxPoint x="430" y="190" as="sourcePoint" />
+            <mxPoint x="395" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JHwUie5jRQhZksNu-lWo-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JHwUie5jRQhZksNu-lWo-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="190" as="sourcePoint" />
-            <mxPoint x="305" y="280" as="targetPoint" />
+            <mxPoint x="710" y="190" as="sourcePoint" />
+            <mxPoint x="495" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JHwUie5jRQhZksNu-lWo-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="JHwUie5jRQhZksNu-lWo-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="200" as="sourcePoint" />
-            <mxPoint x="305" y="130" as="targetPoint" />
+            <mxPoint x="710" y="200" as="sourcePoint" />
+            <mxPoint x="495" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-27" value="Kesulitan dalam membayar uang perkuliahan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-227.5" y="20" width="267.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-28" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;SV&quot;&gt;Besarnya biaya pendidikan&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="95" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-30" value="&lt;p class=&quot;MsoNormal&quot;&gt;Terbatas keinginan atau peluang mahasiswa dalam memperoleh pendapatan lebih&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-212.5" y="50" width="300" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-32" value="Mahasiswa yang tidak cocok dengan studi yang ditempuh" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="270" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-33" value="Mahasiswa tanpa memiliki tujuan pada studinya " style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-34" value="Mahasiswa merasa proses perkuliahan tidak berguna" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-35" value="Pemilihan program studi dikarenakan faktor eksternal" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-36" value="Kurangnya feedback dari teman perkuliahan terkait proses studi" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-170" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-37" value="Lingkungan sosial membuat mahasiswa terlalu santai dalam melakukan studi" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-38" value="Kurangnya feedback dari teman perkuliahan terkait proses studi" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-39" value="Kegiatan pembelajaran yang membosankan dan ketinggalan zaman." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-262.5" y="320" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-40" value="Terbatasnya fasilitas yang dapat mendukung perkembangan progress mahasiswa" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="395" y="30" width="247.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-41" value="Terbatasnya akses mahasiswa dapat melakukan kegiatan non-akademik, contoh penelitian mahasiswa." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="85" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-43" value="Dosen Wali acuh terhadap progress studi mahasiswa" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="270" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JHwUie5jRQhZksNu-lWo-44" value="Dosen Wali acuh terhadap progress studi mahasiswa" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="395" y="340" width="215" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
