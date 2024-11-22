@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="PIee3p56ZYwBG29FOCDX">
-    <mxGraphModel dx="2647" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="JAxsVdZLf2L0At49DJf2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-1" target="JAxsVdZLf2L0At49DJf2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAxsVdZLf2L0At49DJf2-1" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:14.0pt;&lt;br/&gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Cordia New&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-ID;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:TH&quot;&gt;Pendekatan Hybrid CNN &lt;span style=&quot;background:yellow;&lt;br/&gt;mso-highlight:yellow&quot;&gt;Glove&lt;/span&gt; - SVM Untuk Analisis Sentimen Berbasis Aspek&lt;br/&gt;pada Ulasan Aplikasi BRIMO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JAxsVdZLf2L0At49DJf2-1" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:14.0pt;&lt;br/&gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Cordia New&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-ID;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:TH&quot;&gt;Pendekatan Hybrid CNN&amp;nbsp;- SVM Untuk Analisis Sentimen Berbasis Aspek&lt;br&gt;pada Ulasan Aplikasi BRIMO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="40" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-2" target="JAxsVdZLf2L0At49DJf2-17">
@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-17" value="Data Pre-Processing" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="100" y="280" width="200" height="240" as="geometry" />
+          <mxGeometry x="100" y="280" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-19" value="Missing Value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-17">
           <mxGeometry x="40" y="50" width="120" height="30" as="geometry" />
@@ -117,7 +117,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-50" value="SVM Modeling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="965" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-59" target="JAxsVdZLf2L0At49DJf2-61">
           <mxGeometry relative="1" as="geometry">
