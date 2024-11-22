@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="PIee3p56ZYwBG29FOCDX">
-    <mxGraphModel dx="1222" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,11 +16,10 @@
         <mxCell id="JAxsVdZLf2L0At49DJf2-1" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:14.0pt;&lt;br/&gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Cordia New&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-ID;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:TH&quot;&gt;Pendekatan Hybrid CNN &lt;span style=&quot;background:yellow;&lt;br/&gt;mso-highlight:yellow&quot;&gt;Glove&lt;/span&gt; - SVM Untuk Analisis Sentimen Berbasis Aspek&lt;br/&gt;pada Ulasan Aplikasi BRIMO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="40" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JAxsVdZLf2L0At49DJf2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-2" target="JAxsVdZLf2L0At49DJf2-17">
+        <mxCell id="JAxsVdZLf2L0At49DJf2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-2" target="JAxsVdZLf2L0At49DJf2-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350.0000000000002" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="205" y="190" />
+              <mxPoint x="200" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,10 +39,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-17" value="Data Pre-Processing" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="85" y="280" width="240" height="340" as="geometry" />
+          <mxGeometry x="100" y="280" width="200" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="JAxsVdZLf2L0At49DJf2-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-17">
-          <mxGeometry x="60" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="JAxsVdZLf2L0At49DJf2-19" value="Missing Value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-17">
+          <mxGeometry x="40" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-39" value="Remove Duplicated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-17">
+          <mxGeometry x="40" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-40" value="Normalization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-17">
+          <mxGeometry x="40" y="155" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-18" target="JAxsVdZLf2L0At49DJf2-24">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +57,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-18" value="Text Pre-Processing" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="375" y="280" width="240" height="340" as="geometry" />
+          <mxGeometry x="375" y="280" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-34" value="Case Folding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-18">
+          <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-35" value="Tokenizing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-18">
+          <mxGeometry x="40" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-36" value="Stopwords" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-18">
+          <mxGeometry x="40" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-37" value="Stemming" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-18">
+          <mxGeometry x="40" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-38" value="Normalize" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-18">
+          <mxGeometry x="40" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-26" value="Labeling" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="930" y="130" width="240" height="340" as="geometry" />
