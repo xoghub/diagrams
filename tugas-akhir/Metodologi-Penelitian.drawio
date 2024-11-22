@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="PIee3p56ZYwBG29FOCDX">
-    <mxGraphModel dx="836" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="882" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-17" value="Data Pre-Processing" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="100" y="280" width="200" height="290" as="geometry" />
+          <mxGeometry x="100" y="280" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-19" value="Missing Value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-17">
           <mxGeometry x="40" y="50" width="120" height="30" as="geometry" />
@@ -57,7 +57,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-18" value="Text Pre-Processing" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="375" y="280" width="200" height="290" as="geometry" />
+          <mxGeometry x="375" y="280" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-34" value="Case Folding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-18">
           <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
@@ -69,9 +69,6 @@
           <mxGeometry x="40" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-37" value="Stemming" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-18">
-          <mxGeometry x="40" y="240" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JAxsVdZLf2L0At49DJf2-38" value="Normalize" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-18">
           <mxGeometry x="40" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-26" value="Labeling" style="swimlane;startSize=23;" vertex="1" parent="1">
@@ -86,11 +83,81 @@
         <mxCell id="JAxsVdZLf2L0At49DJf2-29" value="Data Labeling Sentimen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-26">
           <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-23" target="JAxsVdZLf2L0At49DJf2-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-23" value="Data Labeling Aspek" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-24" target="JAxsVdZLf2L0At49DJf2-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAxsVdZLf2L0At49DJf2-24" value="Data Labeling Sentimen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-42" target="JAxsVdZLf2L0At49DJf2-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-42" value="TF-IDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-44" target="JAxsVdZLf2L0At49DJf2-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-44" value="Word Embedding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-48" target="JAxsVdZLf2L0At49DJf2-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="1050" />
+              <mxPoint x="480" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-48" value="Hyperparameter &#xa;Search Optimization" style="swimlane;startSize=40;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="200" y="880" width="260" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-53" value="Convolutional Neural Network Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-48">
+          <mxGeometry x="30" y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-54" value="Batch Normalization Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-48">
+          <mxGeometry x="30" y="100" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-55" value="Drop Out Layer Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-48">
+          <mxGeometry x="30" y="140" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-56" value="Fully Connected Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAxsVdZLf2L0At49DJf2-48">
+          <mxGeometry x="30" y="180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-50" target="JAxsVdZLf2L0At49DJf2-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-50" value="SVM Modeling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-59" target="JAxsVdZLf2L0At49DJf2-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-59" value="Model Tranning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-61" value="Model Evaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-64" target="JAxsVdZLf2L0At49DJf2-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-64" value="Data Split" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAxsVdZLf2L0At49DJf2-66" target="JAxsVdZLf2L0At49DJf2-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAxsVdZLf2L0At49DJf2-66" value="Data Split" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
