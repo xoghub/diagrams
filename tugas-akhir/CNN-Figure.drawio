@@ -476,6 +476,12 @@
         <mxCell id="62LGAwBfNU29EDxITgFS-216" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#33ffff&quot;&gt;sangat membantu sekali terimakasi brimo&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="80" width="60" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="62LGAwBfNU29EDxITgFS-217" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#33FFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="130" as="sourcePoint" />
+            <mxPoint x="290" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
