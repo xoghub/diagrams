@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Page-1" id="O7iXT2IoPhU9W17zgHiO">
-    <mxGraphModel dx="876" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1126" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uvv2mwFOaot9U9cJfKDP-1" value="Lowongan Kerja Rasaprima" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="30" width="410" height="650" as="geometry" />
+          <mxGeometry x="240" y="30" width="410" height="540" as="geometry" />
         </mxCell>
         <mxCell id="uvv2mwFOaot9U9cJfKDP-2" value="Rekruter" style="swimlane;startSize=20;html=1;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-1">
-          <mxGeometry y="20" width="120" height="630" as="geometry" />
+          <mxGeometry y="20" width="120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="uvv2mwFOaot9U9cJfKDP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uvv2mwFOaot9U9cJfKDP-2" source="uvv2mwFOaot9U9cJfKDP-5" target="uvv2mwFOaot9U9cJfKDP-6">
           <mxGeometry relative="1" as="geometry" />
@@ -28,11 +28,17 @@
         <mxCell id="uvv2mwFOaot9U9cJfKDP-25" value="Add&lt;div&gt;Job Vacancy&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;aspect=fixed;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-2">
           <mxGeometry x="10" y="270" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uvv2mwFOaot9U9cJfKDP-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uvv2mwFOaot9U9cJfKDP-2" source="uvv2mwFOaot9U9cJfKDP-41" target="uvv2mwFOaot9U9cJfKDP-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uvv2mwFOaot9U9cJfKDP-41" value="Select Talent" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;aspect=fixed;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-2">
           <mxGeometry x="10" y="375" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uvv2mwFOaot9U9cJfKDP-45" value="End" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;aspect=fixed;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-2">
+          <mxGeometry x="40" y="460" width="40" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="uvv2mwFOaot9U9cJfKDP-3" value="System" style="swimlane;startSize=20;html=1;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-1">
-          <mxGeometry x="120" y="20" width="170" height="630" as="geometry" />
+          <mxGeometry x="120" y="20" width="170" height="520" as="geometry" />
         </mxCell>
         <mxCell id="uvv2mwFOaot9U9cJfKDP-17" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;aspect=fixed;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-3">
           <mxGeometry x="65" y="125" width="40" height="40" as="geometry" />
@@ -58,7 +64,7 @@
           <mxGeometry x="55" y="165" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uvv2mwFOaot9U9cJfKDP-4" value="Talent" style="swimlane;startSize=20;html=1;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-1">
-          <mxGeometry x="290" y="20" width="120" height="630" as="geometry" />
+          <mxGeometry x="290" y="20" width="120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="uvv2mwFOaot9U9cJfKDP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uvv2mwFOaot9U9cJfKDP-4" source="uvv2mwFOaot9U9cJfKDP-10" target="uvv2mwFOaot9U9cJfKDP-11">
           <mxGeometry relative="1" as="geometry" />
@@ -81,8 +87,14 @@
         <mxCell id="uvv2mwFOaot9U9cJfKDP-29" value="Find&lt;div&gt;Job Vacancy&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;aspect=fixed;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-4">
           <mxGeometry x="10" y="240" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uvv2mwFOaot9U9cJfKDP-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uvv2mwFOaot9U9cJfKDP-4" source="uvv2mwFOaot9U9cJfKDP-33" target="uvv2mwFOaot9U9cJfKDP-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uvv2mwFOaot9U9cJfKDP-33" value="Apply" style="whiteSpace=wrap;html=1;strokeWidth=2;aspect=fixed;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-4">
           <mxGeometry x="10" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uvv2mwFOaot9U9cJfKDP-43" value="End" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;aspect=fixed;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-4">
+          <mxGeometry x="40" y="410" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uvv2mwFOaot9U9cJfKDP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="uvv2mwFOaot9U9cJfKDP-1" source="uvv2mwFOaot9U9cJfKDP-6" target="uvv2mwFOaot9U9cJfKDP-17">
           <mxGeometry relative="1" as="geometry">
