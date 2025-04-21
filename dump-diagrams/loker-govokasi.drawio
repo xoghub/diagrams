@@ -28,7 +28,7 @@
         <mxCell id="uvv2mwFOaot9U9cJfKDP-25" value="Add&lt;div&gt;Job Vacancy&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;aspect=fixed;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-2">
           <mxGeometry x="10" y="270" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uvv2mwFOaot9U9cJfKDP-41" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;aspect=fixed;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-2">
+        <mxCell id="uvv2mwFOaot9U9cJfKDP-41" value="Select Talent" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;aspect=fixed;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-2">
           <mxGeometry x="10" y="375" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uvv2mwFOaot9U9cJfKDP-3" value="System" style="swimlane;startSize=20;html=1;" vertex="1" parent="uvv2mwFOaot9U9cJfKDP-1">
